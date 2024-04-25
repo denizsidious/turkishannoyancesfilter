@@ -7,3 +7,4 @@
 ! Syntax: AdBlock
 
 technopat.net##.js-replyNewMessageContainer.block-body > .samAlignCenter.samCodeUnit
+hurriyet.com.tr##.nextcontent
