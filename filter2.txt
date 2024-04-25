@@ -7,4 +7,3 @@
 ! Syntax: AdBlock
 
 technopat.net##.js-replyNewMessageContainer.block-body > .samAlignCenter.samCodeUnit
-techradar.com##.hawk-deal-widget-container
