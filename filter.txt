@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 ! Title: Turkish Annoyances Filter
 ! Description: A annoyances filter to block irritating elements on Turkish web pages. 
 ! Homepage: https://github.com/denizsidious/turkishannoyancesfilter
@@ -5,4 +6,5 @@
 ! Version: 25 April 2024
 ! Syntax: AdBlock
 
-www.technopat.net##.js-replyNewMessageContainer.block-body > .samAlignCenter.samCodeUnit
+technopat.net##.js-replyNewMessageContainer.block-body > .samAlignCenter.samCodeUnit
+techradar.com##.hawk-deal-widget-container
