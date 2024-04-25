@@ -11,4 +11,5 @@ hurriyet.com.tr##.nextcontent
 eksisozluk.com##.pena-logo-container.link-container.no-hover
 eksisozluk.com##.eksiseyler-logo-container.link-container.no-hover
 eksisozluk.com##div:nth-of-type(4)
+eksisozluk.com###aside
 sozcu.com.tr##li:nth-of-type(9)
