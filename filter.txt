@@ -4,3 +4,5 @@
 ! Expires: 4 days (update frequency)
 ! Version: 25 April 2024
 ! Syntax: AdBlock
+
+technopat.net##.js-replyNewMessageContainer.block-body > .samAlignCenter.samCodeUnit > .samItem
