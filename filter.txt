@@ -1,0 +1,6 @@
+! Title: Turkish Annoyances Filter
+! Description: A annoyances filter to block irritating elements on Turkish web pages. 
+! Homepage: https://github.com/denizsidious/turkishannoyancesfilter
+! Expires: 4 days (update frequency)
+! Version: 25 April 2024
+! Syntax: AdBlock
