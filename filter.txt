@@ -8,3 +8,6 @@
 
 technopat.net##.js-replyNewMessageContainer.block-body > .samAlignCenter.samCodeUnit
 hurriyet.com.tr##.nextcontent
+eksisozluk.com##.pena-logo-container.link-container.no-hover
+eksisozluk.com##.eksiseyler-logo-container.link-container.no-hover
+eksisozluk.com##div:nth-of-type(4)
