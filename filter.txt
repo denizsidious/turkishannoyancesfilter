@@ -13,3 +13,4 @@ eksisozluk.com##.eksiseyler-logo-container.link-container.no-hover
 eksisozluk.com##div:nth-of-type(4)
 eksisozluk.com###aside
 sozcu.com.tr##li:nth-of-type(9)
+onedio.com##.u-center.mr-8.h-10.bg-black-90.w-full
